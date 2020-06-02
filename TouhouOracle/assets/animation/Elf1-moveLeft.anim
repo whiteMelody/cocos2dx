@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Elf1-moveLeft",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.03125,
+  "sample": 32,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fd834888-d3d7-4913-854c-70356f638193"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Elf1-move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 32,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "dd45baa2-928c-4ce5-ba1e-9464a9e8f7cc"
+            }
+          },
+          {
+            "frame": 0.15625,
+            "value": {
+              "__uuid__": "4ae52be6-cec1-4902-965c-e598ab50f8cb"
+            }
+          },
+          {
+            "frame": 0.3125,
+            "value": {
+              "__uuid__": "1fb95d74-544b-4ac6-a953-8ecd38304a9d"
+            }
+          },
+          {
+            "frame": 0.46875,
+            "value": {
+              "__uuid__": "1c5cf551-f58e-4779-962c-20c85e230a24"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": -0.28125,
+      "func": "",
+      "params": []
+    }
+  ]
+}

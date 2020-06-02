@@ -1,0 +1,37 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": true,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.2048",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "startScene": "5852f606-e67b-4c8f-a61e-654eb9203f4e",
+  "title": "2048Hero",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxe8073ef57ddba790",
+    "orientation": "portrait",
+    "subContext": "wx-open-data-2048hero"
+  },
+  "xxteaKey": "141fd49a-de2b-4b",
+  "zipCompressJs": true
+}

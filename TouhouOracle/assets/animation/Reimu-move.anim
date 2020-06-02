@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Reimu-move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.65625,
+  "sample": 32,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "02717872-b42e-43b5-a647-12e979fbad7c"
+            }
+          },
+          {
+            "frame": 0.3125,
+            "value": {
+              "__uuid__": "65c9945c-ea0b-46ef-bad4-33de6ac8f626"
+            }
+          },
+          {
+            "frame": 0.625,
+            "value": {
+              "__uuid__": "7f6b5e7f-5c13-4354-84ee-9a10db0f51b6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

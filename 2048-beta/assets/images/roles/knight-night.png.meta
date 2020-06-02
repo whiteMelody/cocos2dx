@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b622043e-7ce5-469c-b9a5-6a77ceeabb89",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "knight-night": {
+      "ver": "1.0.3",
+      "uuid": "e5322b48-f39f-4951-b279-31c361024f91",
+      "rawTextureUuid": "b622043e-7ce5-469c-b9a5-6a77ceeabb89",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 177,
+      "trimY": 92,
+      "width": 285,
+      "height": 456,
+      "rawWidth": 640,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

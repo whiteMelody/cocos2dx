@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ef34898a-84da-4d05-9a85-dcf3b50facab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "princess-night": {
+      "ver": "1.0.3",
+      "uuid": "a60a37cf-b5ad-437c-ad15-91e63776aa29",
+      "rawTextureUuid": "ef34898a-84da-4d05-9a85-dcf3b50facab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 101,
+      "trimY": 60,
+      "width": 437,
+      "height": 520,
+      "rawWidth": 640,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Cirno-move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 32,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f257ce50-e224-41c8-94ec-4c08fa35f95f"
+            }
+          },
+          {
+            "frame": 0.15625,
+            "value": {
+              "__uuid__": "911c3b9c-3981-4d28-a369-bcd7c086930f"
+            }
+          },
+          {
+            "frame": 0.3125,
+            "value": {
+              "__uuid__": "165909a6-260c-4e9e-9e14-fcfd7eb00aef"
+            }
+          },
+          {
+            "frame": 0.46875,
+            "value": {
+              "__uuid__": "fe947b19-20dd-49cd-be3a-1a9cf8d2caeb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
